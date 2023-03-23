@@ -8,7 +8,7 @@
 				<div class="text_content">
 					
 					<table width="600" style="margin: 0pt auto;">
-	
+	<!-- this about us page -->
 	<thead><tr><th colspan="3" style="text-align: right;"><h3>LIBRARY HOURS</h3></th></tr></thead>
 	<tbody>
 	<tr>
