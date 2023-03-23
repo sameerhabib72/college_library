@@ -1,0 +1,225 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col",
+				"color"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"bg",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/php_course/cookie/cookie_set.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/navbar_archive.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/navbar_books.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/navbar_borrow.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/navbar_member.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/navbar_transaction.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/navbar_user.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/header.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/navbar.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/index.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/borrow.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/return.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/sub_rep.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/view_borrow.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/advance_search.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/edit_member.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/search_form.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/add_books.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/users.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/modal_add_user.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/modal_edit_user.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/modal_return.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/edit_book.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/damage.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/books.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/member.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/add_member.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/new_books.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/old_books.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/lost.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/add_student.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/footer.php",
+		"/C/xampp/htdocs/eb_magalona_lms/navbar.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/dashboard.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/logout.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/navbar_dashboard.php",
+		"/C/xampp/htdocs/eb_magalona_lms/css/style.css",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/borrowname.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/dbcon.php",
+		"/C/xampp/htdocs/eb_magalona_lms/librarian/session.php",
+		"/C/xampp/htdocs/eb_magalona_lms/session.php",
+		"/C/xampp/htdocs/eb_magalona_lms/sidebar.php",
+		"/C/xampp/htdocs/eb_magalona_lms/header.php",
+		"/C/xampp/htdocs/eb_magalona_lms/head.php",
+		"/C/xampp/htdocs/eb_magalona_lms/footer.php",
+		"/C/xampp/htdocs/eb_magalona_lms/index.php",
+		"/C/xampp/htdocs/eb_magalona_lms/thumbnail.php",
+		"/C/xampp/htdocs/eb_magalona_lms/about.php",
+		"/C/xampp/htdocs/eb_magalona_lms/contact.php"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 237.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
